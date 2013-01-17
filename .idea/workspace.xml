@@ -72,10 +72,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomInterface.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CustomInterface.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/CustomInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="47" selection-start="80" selection-end="80" vertical-scroll-proportion="0.10869565">
+            <state line="5" column="47" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySingleton.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/MySingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.04347826">
               <folding />
             </state>
           </provider>
@@ -103,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/Session.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/CustomInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/MySingleton.java" />
       </list>
     </option>
   </component>
@@ -503,7 +513,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/CustomInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="47" selection-start="80" selection-end="80" vertical-scroll-proportion="0.10869565">
+        <state line="5" column="47" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/MySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.04347826">
           <folding />
         </state>
       </provider>
