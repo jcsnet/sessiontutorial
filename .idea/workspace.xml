@@ -63,10 +63,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="35" selection-start="647" selection-end="647" vertical-scroll-proportion="0.3251445">
+            <state line="26" column="38" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Session.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/Session.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0433526">
               <folding />
             </state>
           </provider>
@@ -83,6 +92,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/Session.java" />
       </list>
     </option>
   </component>
@@ -187,6 +197,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sessiontut" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -373,7 +387,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="35" selection-start="647" selection-end="647" vertical-scroll-proportion="0.3251445">
+        <state line="26" column="38" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0433526">
           <folding />
         </state>
       </provider>
