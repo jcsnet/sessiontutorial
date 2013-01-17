@@ -5,6 +5,7 @@
     <ignored path="sessiontut.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/pom.xml" changelist="6f9d4b82-2726-4cc6-bc4f-71654d938232" time="1358417672516" ignored="false" />
+    <file path="/Session.java" changelist="6f9d4b82-2726-4cc6-bc4f-71654d938232" time="1358421534358" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,20 +73,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomInterface.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CustomInterface.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/CustomInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.04347826">
+            <state line="5" column="16" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MySingleton.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MySingleton.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/MySingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="16" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.3478261">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,7 +96,7 @@
       <file leaf-file-name="Session.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/Session.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -109,10 +112,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/Session.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/MySingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/CustomInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/MySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/Session.java" />
       </list>
     </option>
   </component>
@@ -299,6 +302,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="MavenSettings" />
@@ -504,24 +508,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/Session.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/CustomInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+        <state line="5" column="16" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/MySingleton.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/Session.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/CustomInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/sessiontut/MySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.04347826">
-          <folding />
+        <state line="16" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.3478261">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
